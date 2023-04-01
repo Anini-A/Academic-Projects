@@ -1,5 +1,5 @@
-# School Project | Projet Etude 📚👨🏽‍🎓
-
+# School Project | Projet Etude 📚👨🏽‍🎓 
+  
 **Network Administration**
 
 [Universite de Saint-Boniface-Computer Science Diploma](https://ustboniface.ca/annuaire2017/ecole-technique-et-professionnelle---diplome-en-informatique#:~:text=Ce%20programme%20de%20deux%20ans,projets%20informatiques%20et%20la%20consultation.) (Graduated with 4.30 GPA)
@@ -49,7 +49,7 @@ Vous pouvez naviguer dans le PDF par les numéros 1, 2, 3....
 
 ------------------------------
 
-## Company website 🖥️
+## Company website 🖥️ 
 
 I also created a 4 pages website using **HTML** and **CSS** for my fictive company and host it locally on my computer. Here is an glimpse!
 
@@ -78,3 +78,6 @@ Anini A.
 Any feeback or comments will be greatly appreciated. And don't forget to give it a star if you liked it! 
 
 Tout commentaire ou réactions seront grandement appréciés. Et n'oubliez pas de donner une étoile si vous l'avez aimé ! 
+
+<a class="top-link hide" href="#top">🔝</a>
+<a name="top"></a>
