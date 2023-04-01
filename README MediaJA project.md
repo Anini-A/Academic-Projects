@@ -20,4 +20,4 @@ Réalisé avec **Windows Server 2008** et **Windows Server 2012**.
 
 Vous pouvez naviguer dans le PDF par les numéros 1, 2, 3....
 
-[Sommaire](Documentation mediaJA/1 Somaire.pdf)
+[Sommaire 1️⃣](Documentation mediaJA/1 Sommaire.pdf)
