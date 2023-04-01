@@ -1,11 +1,10 @@
 # School Project | Projet Etude 📚👨🏽‍🎓
 
-**Task:** Design a company network with all it's basic services (AD, DHCP, DNS, ISS, Printing server, File sharing, Backup server)
+**Task:** Design a network with all it's basic services (AD, DHCP, DNS, ISS, Printing server, File sharing, Backup server) for a fictive company.
 
-Completed with **Windows Server 2008** and **Windows Server 2012**
-
-* MediaJA is a fictive company
+* I decided to all my fictive company **MediaJA**
 * Project only available in **French**
+* Completed with **Windows Server 2008** and **Windows Server 2012**
 
 You can navigate the PDF by numbers 1, 2, 3....
 
@@ -43,3 +42,9 @@ Vous pouvez naviguer dans le PDF par les numéros 1, 2, 3....
 [🔟 Serveur de fichier](https://github.com/Anini-A/Network-Administration/blob/111b0e167c080109a59d818c31d37df09cbc0948/Documentation%20mediaJA/10%20Serveur%20de%20Fichier.pdf)
 
 [1️⃣1️⃣ Backup serveur](https://github.com/Anini-A/Network-Administration/blob/111b0e167c080109a59d818c31d37df09cbc0948/Documentation%20mediaJA/11%20Backup%20svr.pdf)
+
+------------------------------
+
+I also created a 4 pages website using **HTML** and **CSS** for my fictive company and host it locally on my computer. 
+
+
