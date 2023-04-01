@@ -1,5 +1,7 @@
 # School Project | Projet Etude 📚👨🏽‍🎓
 
+[Universite de Saint-Boniface-Computer Science Diploma](https://ustboniface.ca/annuaire2017/ecole-technique-et-professionnelle---diplome-en-informatique#:~:text=Ce%20programme%20de%20deux%20ans,projets%20informatiques%20et%20la%20consultation.) (Graduated with 4.30 GPA)
+
 **Task:** Design a network with all it's basic services (AD, DHCP, DNS, ISS, Printing server, File sharing, Backup server) for a fictive company.
 
 * I decided to all my fictive company **MediaJA**
