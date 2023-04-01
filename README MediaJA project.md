@@ -20,6 +20,26 @@ Réalisé avec **Windows Server 2008** et **Windows Server 2012**.
 
 Vous pouvez naviguer dans le PDF par les numéros 1, 2, 3....
 
-[Sommaire 1️⃣](https://github.com/Anini-A/Network-Administration/blob/4acedf39fbf006eeaf4055406da4af6c986a6f8f/Documentation%20mediaJA/1%20Sommaire.pdf) 
+------------------------------
 
-[Hard 🔴](Hospital_db/Hard.md)
+[1️⃣ Sommaire](https://github.com/Anini-A/Network-Administration/blob/4acedf39fbf006eeaf4055406da4af6c986a6f8f/Documentation%20mediaJA/1%20Sommaire.pdf) 
+
+[2️⃣ Presentation](https://github.com/Anini-A/Network-Administration/blob/4acedf39fbf006eeaf4055406da4af6c986a6f8f/Documentation%20mediaJA/2%20Presentation.pdf)
+
+[3️⃣ DHCP configuration](https://github.com/Anini-A/Network-Administration/blob/111b0e167c080109a59d818c31d37df09cbc0948/Documentation%20mediaJA/3%20DHCP.pdf)
+
+[4️⃣ DNS configuration](https://github.com/Anini-A/Network-Administration/blob/111b0e167c080109a59d818c31d37df09cbc0948/Documentation%20mediaJA/4%20DNS.pdf)
+
+[5️⃣ Active Directory configuration](https://github.com/Anini-A/Network-Administration/blob/111b0e167c080109a59d818c31d37df09cbc0948/Documentation%20mediaJA/5%20AD.pdf)
+
+[6️⃣ Integer un PC au domaine](https://github.com/Anini-A/Network-Administration/blob/111b0e167c080109a59d818c31d37df09cbc0948/Documentation%20mediaJA/6%20Integrer%20un%20PC%20au%20domaine.pdf)
+
+[7️⃣ Configuration du server IIS (Internet Information Services)](https://github.com/Anini-A/Network-Administration/blob/111b0e167c080109a59d818c31d37df09cbc0948/Documentation%20mediaJA/7%20IIS%20config.pdf)
+
+[8️⃣ Configuration serveur d'impression](https://github.com/Anini-A/Network-Administration/blob/111b0e167c080109a59d818c31d37df09cbc0948/Documentation%20mediaJA/8%20Serveur%20Impresion.pdf)
+
+[9️⃣ Creation OU, Groupe et utilisateur](https://github.com/Anini-A/Network-Administration/blob/111b0e167c080109a59d818c31d37df09cbc0948/Documentation%20mediaJA/9%20Creation%20d'utilisateur.pdf)
+
+[🔟 Serveur de fichier](https://github.com/Anini-A/Network-Administration/blob/111b0e167c080109a59d818c31d37df09cbc0948/Documentation%20mediaJA/10%20Serveur%20de%20Fichier.pdf)
+
+[1️⃣1️⃣ Backup serveur](https://github.com/Anini-A/Network-Administration/blob/111b0e167c080109a59d818c31d37df09cbc0948/Documentation%20mediaJA/11%20Backup%20svr.pdf)
