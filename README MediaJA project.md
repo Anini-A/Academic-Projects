@@ -47,7 +47,7 @@ Vous pouvez naviguer dans le PDF par les numéros 1, 2, 3....
 
 ## Company website 🖥️
 
-I also created a 4 pages website using **HTML** and **CSS** for my fictive company and host it locally on my computer. 
+I also created a 4 pages website using **HTML** and **CSS** for my fictive company and host it locally on my computer. Here is an glimpse!
 
 [mediaJA website](https://github.com/Anini-A/Network-Administration/tree/feb9edf5beb34e6c45e8b40927b607f069c77262/mediaJA%20website)
 
