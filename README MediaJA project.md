@@ -51,4 +51,29 @@ I also created a 4 pages website using **HTML** and **CSS** for my fictive compa
 
 [mediaJA website](https://github.com/Anini-A/Network-Administration/tree/feb9edf5beb34e6c45e8b40927b607f069c77262/mediaJA%20website)
 
+[Page 1](https://github.com/Anini-A/Network-Administration/blob/972117a806cca45455252bebca4f96a488a88ed0/mediaJA%20website/Business-1.html)
+<img width="875" alt="Screenshot 2023-04-01 at 3 37 22 PM" src="https://user-images.githubusercontent.com/25376135/229313289-caac8608-1689-473d-89f4-43891721e1b9.png">
+
+[Page 2](https://github.com/Anini-A/Network-Administration/blob/972117a806cca45455252bebca4f96a488a88ed0/mediaJA%20website/Business-2.html)
+<img width="567" alt="Screenshot 2023-04-01 at 3 38 15 PM" src="https://user-images.githubusercontent.com/25376135/229313416-a731be6c-ad09-4318-a573-66271dcff185.png">
+
+[Page 3](https://github.com/Anini-A/Network-Administration/blob/972117a806cca45455252bebca4f96a488a88ed0/mediaJA%20website/Business-3.html)
+<img width="836" alt="Screenshot 2023-04-01 at 3 38 52 PM" src="https://user-images.githubusercontent.com/25376135/229313432-f57b55eb-bbc1-4e75-a1ae-ab18f2bb2c0a.png">
+
+[Page 4](https://github.com/Anini-A/Network-Administration/blob/972117a806cca45455252bebca4f96a488a88ed0/mediaJA%20website/Business-4.html)
+<img width="848" alt="Screenshot 2023-04-01 at 3 39 08 PM" src="https://user-images.githubusercontent.com/25376135/229313466-2670af5c-8ea4-4cd7-a21c-fcb79bcc9377.png">
+------------------------------
+
+## Contact 🪪
+
+Anini A.
+
+[Linked profile 👨🏾‍🦲](https://www.linkedin.com/in/anini-amoakon)
+
+Any feeback or comments will be greatly appreciated. And don't forget to give it a star if you liked it! 
+
+Tout commentaire ou réactions seront grandement appréciés. Et n'oubliez pas de donner une étoile si vous l'avez aimé ! 
+
+
+
 
