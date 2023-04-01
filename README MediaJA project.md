@@ -20,6 +20,6 @@ Réalisé avec **Windows Server 2008** et **Windows Server 2012**.
 
 Vous pouvez naviguer dans le PDF par les numéros 1, 2, 3....
 
-[Sommaire 1️⃣](Documentation mediaJA/1 Sommaire.pdf) 
+[Sommaire 1️⃣](https://github.com/Anini-A/Network-Administration/blob/4acedf39fbf006eeaf4055406da4af6c986a6f8f/Documentation%20mediaJA/1%20Sommaire.pdf) 
 
 [Hard 🔴](Hospital_db/Hard.md)
