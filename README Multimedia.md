@@ -1,6 +1,6 @@
 # School Project | Projet Etude 📚👨🏽‍🎓
 
-**Multimedia - editing**
+**Multimedia**
 
 [Universite de Saint-Boniface-Computer Science Diploma](https://ustboniface.ca/annuaire2017/ecole-technique-et-professionnelle---diplome-en-informatique#:~:text=Ce%20programme%20de%20deux%20ans,projets%20informatiques%20et%20la%20consultation.) (Graduated with 4.30 GPA)
 
