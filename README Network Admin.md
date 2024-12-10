@@ -6,7 +6,7 @@
 
 **Task:** Design a network with all it's basic services (AD, DHCP, DNS, ISS, Printing server, File sharing, Backup server) for a fictive company.
 
-* I decided to all my fictive company **MediaJA**
+* I decided to call the fictive company **MediaJA**
 * Project only available in **French**
 * Completed with **Windows Server 2008** and **Windows Server 2012**
 
